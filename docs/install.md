@@ -1,3 +1,4 @@
+HELLO
 ---
 id: install
 title: Install
